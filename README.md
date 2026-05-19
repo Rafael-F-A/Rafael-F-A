@@ -1,4 +1,3 @@
-```markdown
 # 👋 Olá, Meu Nome é Rafael Azevedo
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
