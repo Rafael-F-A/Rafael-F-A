@@ -47,8 +47,8 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<a href="mailto:rafaelflorencioaz@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<a href="mailto:rafaelflorencioaz@gmail.com?subject=Contato%20via%20GitHub">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
@@ -57,4 +57,4 @@
 
 ## ⚡ Frase
 
-> > "Grandes resultados começam com curiosidade e dedicação."
+> "Grandes resultados começam com curiosidade e dedicação."
